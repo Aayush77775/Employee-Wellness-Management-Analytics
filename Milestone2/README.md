@@ -1,4 +1,4 @@
-# 🧠 NLP Pipeline Overview
+#  NLP Pipeline Overview
 
 The implemented NLP pipeline performs the following operations in sequence:
 
@@ -75,7 +75,7 @@ The preprocessing pipeline supports multiple languages using appropriate NLP lib
 
 ## Programming Language
 
-- Python 3
+- Python 
 
 ## Development Environment
 
@@ -194,7 +194,7 @@ Final Preprocessed Text
 
 ---
 
-# 📥 Sample Input
+#  Sample Input
 
 ```text
 Hello! 😊
@@ -210,7 +210,7 @@ I have 5 apples and 10 oranges.
 
 ---
 
-# 📤 Sample Output
+#  Sample Output
 
 ### Detected Language
 
@@ -250,27 +250,27 @@ hello visit detail contact html paragraph apple orange
 
 ---
 
-# 📊 Intermediate Outputs Displayed
+#  Intermediate Outputs Displayed
 
 The notebook displays the output after every preprocessing stage:
 
-- ✅ Original Text
-- ✅ Detected Language
-- ✅ Unicode Normalized Text
-- ✅ Cleaned Text
-- ✅ URLs Removed
-- ✅ Emails Removed
-- ✅ HTML Tags Removed
-- ✅ Extracted Emojis
-- ✅ Text after Emoji Removal
-- ✅ Punctuation Removed
-- ✅ Numbers Removed
-- ✅ Lowercase Text
-- ✅ Tokens
-- ✅ Tokens after Stop-word Removal
-- ✅ Lemmatized Tokens
-- ✅ Noise Filtered Tokens
-- ✅ Final Preprocessed Text
+-  Original Text
+-  Detected Language
+-  Unicode Normalized Text
+-  Cleaned Text
+-  URLs Removed
+-  Emails Removed
+-  HTML Tags Removed
+-  Extracted Emojis
+-  Text after Emoji Removal
+-  Punctuation Removed
+-  Numbers Removed
+-  Lowercase Text
+-  Tokens
+-  Tokens after Stop-word Removal
+-  Lemmatized Tokens
+-  Noise Filtered Tokens
+-  Final Preprocessed Text
 
 ---
 # 🎯 Conclusion
